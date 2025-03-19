@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 🌸
+
+I am Aino, a soon-to-be software engineer who's currently studying at 42 Network's <a href="https://www.hive.fi/en/">Hive Helsinki</a>
 
 <!--
 **a-havu/a-havu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
