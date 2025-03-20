@@ -10,9 +10,11 @@ I'm currently learning C, with a couple of projects under my belt:
 
 🔀<a href="https://github.com/a-havu/push_swap">push_swap</a>, a sorting algorithm where the challenge was to optimize the project for as few moves as possible.
 
-🦇<a href="https://github.com/a-havu/so_long">so_long</a>, a simple 2D game where a hungry vampire needs to feed before going to slumber...
+🦇<a href="https://github.com/a-havu/so_long">so_long</a>, a simple 2D game using MLX42 library, where a hungry vampire needs to feed before going to slumber...
 
-I'm currently working on the project Philosophers, a multi-threading algorithm!
+👁️‍🗨️<a href="https://github.com/a-havu/minitalk">minitalk</a>, a UNIX system project where two programs send signals to each other.
+
+I'm currently working on the project Philosophers, which is a multi-threading algorithm!
 
 You can contact me on <a href="https://www.linkedin.com/in/aino-havu-582579122/">LinkedIn</a> 🌻
 
