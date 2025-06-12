@@ -5,7 +5,7 @@ I am Aino (she/they), a soon-to-be software engineer who's currently studying at
 I started coding from literal scratch with no prior experience in July 2024, when I took part in the selection process, "Piscine".
 I'm currently learning C, with a couple of projects under my belt - more on those in my repos.
 
-I'm currently working on the project minishell, which is about creating a minimalist version of shell.
+I'm currently working on the project cub3D, a Wolfenstein 3D inspired gae project.
 
 You can contact me on <a href="https://www.linkedin.com/in/aino-havu-582579122/">LinkedIn</a> 🌻
 
